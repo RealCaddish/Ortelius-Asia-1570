@@ -1,2 +1,5 @@
 # Ortelius-Asia-1570
-A guided tour of Abraham Ortelius' &lt;i>Asiae noua descriptio.&lt;/i> I wanted to make this map as an opportunity to look at historic events in 1570 when it was commissioned and later published by &lt;i>Gilles Coppens de Diest at Antwerp&lt;/i> . This project lends itself towards examining Dutch relations around southeast Asia and the Saudi Peninsula by guiding the viewer to different nations and regions on the map. 
+
+##This project is a  guided tour of Abraham Ortelius' <i> Asiae noua descriptio. </i> 
+
+I wanted to make this map as an opportunity in search of historic events in 1570 when it was commissioned and later published by <i> Gilles Coppens de Diest at Antwer </i> during the prescribed Golden Age of Netherlandish Cartography. This project lends itself towards examining Dutch relations around southeast Asia and the Saudi Peninsula by guiding the viewer to different nations and regions depicted on Ortelius' map. Who was the Wanli Emperor of China during the Ming Dynasty? Which natural landforms serve as political borders across the region? By examining this map as a constrained encyclopedia in time and place, I hope that the viewer can be placed inside a more dynamic, digtal, and historical context.  
