@@ -1,5 +1,4 @@
-# Ortelius-Asia-1570
-
+#  A 16th c. Dutch View of Asia in 1570
 ##This project is a  guided tour of Abraham Ortelius' <i> Asiae noua descriptio: </i> 
 
 Check out this 1570 atlas at the Boston Public Library's Leventhal Map Center, housing this map of Asia by Dutch cartographer, Abraham Ortelius:
